@@ -24,7 +24,7 @@
 - [🏗️ Architecture](#️-architecture)
 - [📊 Tech Stack](#-tech-stack)
 - [🤝 Contributing](#-contributing)
-- [📞 Support](#-support)
+
 
 ---
 
@@ -226,18 +226,6 @@ We welcome contributions! Here's how you can help:
 6. Open a Pull Request
 
 ---
-
-## 📞 Support
-
-<div align="center">
-
-### Get Help
-
-| Platform | Link |
-|----------|------|
-| 🐛 **Issues** | [GitHub Issues](https://github.com/yourusername/youtube-summarizer/issues) |
-| 💬 **Discussions** | [GitHub Discussions](https://github.com/yourusername/youtube-summarizer/discussions) |
-| 📧 **Email** | your.email@example.com |
 
 ### Community
 
